@@ -1,0 +1,17 @@
+{
+    "reconRecords": [{
+            "reconRundate": "2017-07-09",
+            "reconType": "CIP Diamond Recon",
+            "totalError": "5389"
+        },
+        {
+            "reconRundate": "2017-07-10",
+            "reconType": "CIP Diamond Recon1",
+            "totalError": "5389"
+        },
+                     {
+            "reconRundate": "2017-07-11",
+            "reconType": "CIP Diamond Recon3",
+            "totalError": "5389"
+        }]
+}
