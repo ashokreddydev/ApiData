@@ -1,17 +1,17 @@
 {
     "reconRecords": [{
             "reconRundate": "2017-07-09",
-            "reconType": "CIP_Diamond_Recon2.csv",
+            "reconType": "CIP_Diamond_Recon2",
             "totalError": "5389"
         },
         {
             "reconRundate": "2017-07-10",
-            "reconType": "CIP_Diamond_Recon2.csv",
+            "reconType": "CIP_Diamond_Recon2",
             "totalError": "5389"
         },
                      {
             "reconRundate": "2017-07-11",
-            "reconType": "CIP_Diamond_Recon2.csv",
+            "reconType": "CIP_Diamond_Recon2",
             "totalError": "5389"
         }]
 }
