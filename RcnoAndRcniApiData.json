@@ -1,0 +1,20 @@
+{
+    "flagDistribution": [{
+            "flagDistribution": "Non-Match with Issuer Action",
+            "flag": "A",
+            "count": "10007",
+            "percentage": "0.67"
+        },
+        {
+			"flagDistribution": "Non-Match with Issuer Action Required",
+            "flag": "B",
+            "count": "62020",
+            "percentage": "0.418"
+        },
+                     {
+               "flagDistribution": "Non-Match with Issuer Action Required | NoFFM",
+            "flag": "D",
+            "count": "4778",
+            "percentage": "0.317"
+        }]
+}
