@@ -1,20 +1,32 @@
-{
-    "reconRecords": [{
-            "fileName": "A1.CSV",
-            "reconRunDate": "2017-07-09",
-            "reconType": "CIP_Diamond_Recon2",
-            "totalErrors": "5389"
-        },
-        {
-            "fileName": "A2.CSV",
-            "reconRunDate": "2017-07-10",
-            "reconType": "CIP_Diamond_Recon2",
-            "totalErrors": "5389"
-        },
-                     {
-             "fileName": "A3.CSV",
-            "reconRunDate": "2017-07-11",
-            "reconType": "CIP_Diamond_Recon3",
-            "totalErrors": "5389"
-        }]
-}
+{"rcnoListViewRes": [
+      {
+      "recordIdentifier": "RCNI170630115000005",
+      "rcnoFirstName": "ERIN",
+      "rcnoLastName": "HILL",
+      "rcnoExchSubId": "0001567297",
+      "rcnoSocSecNum": "770404680",
+      "rcnoContractId": "RCNI17063",
+      "rcnoFFMPolicyId": "H10162144",
+      "overallInd": "M"
+   },
+      {
+      "recordIdentifier": "RCNI170630115000006",
+      "rcnoFirstName": "TOMMY",
+      "rcnoLastName": "PIIRA",
+      "rcnoExchSubId": "0001798469",
+      "rcnoSocSecNum": "594957396",
+      "rcnoContractId": "RCNI17063",
+      "rcnoFFMPolicyId": "H10166177",
+      "overallInd": "M"
+   },
+      {
+      "recordIdentifier": "RCNI170630115000015",
+      "rcnoFirstName": "JACK",
+      "rcnoLastName": "SHANHOLTZ",
+      "rcnoExchSubId": "0002417445",
+      "rcnoSocSecNum": "356940018",
+      "rcnoContractId": "RCNI17063",
+      "rcnoFFMPolicyId": "H10202275",
+      "overallInd": "C"
+   }
+]}
