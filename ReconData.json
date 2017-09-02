@@ -1,32 +1,113 @@
-{"rcnoListViewRes": [
-      {
-      "recordIdentifier": "RCNI170630115000005",
-      "rcnoFirstName": "ERIN",
-      "rcnoLastName": "HILL",
-      "rcnoExchSubId": "0001567297",
-      "rcnoSocSecNum": "770404680",
-      "rcnoContractId": "RCNI17063",
-      "rcnoFFMPolicyId": "H10162144",
-      "overallInd": "M"
-   },
-      {
-      "recordIdentifier": "RCNI170630115000006",
-      "rcnoFirstName": "TOMMY",
-      "rcnoLastName": "PIIRA",
-      "rcnoExchSubId": "0001798469",
-      "rcnoSocSecNum": "594957396",
-      "rcnoContractId": "RCNI17063",
-      "rcnoFFMPolicyId": "H10166177",
-      "overallInd": "M"
-   },
-      {
-      "recordIdentifier": "RCNI170630115000015",
-      "rcnoFirstName": "JACK",
-      "rcnoLastName": "SHANHOLTZ",
-      "rcnoExchSubId": "0002417445",
-      "rcnoSocSecNum": "356940018",
-      "rcnoContractId": "RCNI17063",
-      "rcnoFFMPolicyId": "H10202275",
-      "overallInd": "C"
-   }
-]}
+ [ // eslint-disable-line jsx-a11y/href-no-hash
+
+  {
+
+    "goalId": "a3i0v0000004RaYAAU",
+
+    "goalVersion": 1,
+
+    "goalName": "My First Goal",
+
+    "goalType": "single",
+
+    "goalShareType": "individual",
+
+    "goalStatus": "draft",
+
+    "goalStatusDate": "2017-08-08",
+
+    "incomeStartAge": 63,
+
+    "incomeStartDate": "2046-01-01",
+
+    "incomeEndAge": "83",
+
+    "incomeEndDate": "2066-01-01",
+
+    "client": {
+
+      "lastName": "Cooper",
+
+      "firstName": "Jane",
+
+      "dob": "1970-04-01",
+
+      "regularContribution": {
+
+        "amount": 1250,
+
+        "frequency": "weekly"
+
+      },
+
+      "expenseAllocation": "10%",
+
+      "initialInvestment": 90000
+
+    },
+
+    "investmentAccounts": [
+
+
+
+    ]
+
+  },
+
+  {
+
+    "goalId": "a3i0v0000004RaYAAU",
+
+    "goalVersion": 1,
+
+    "goalName": "My First Goal",
+
+    "goalType": "single",
+
+    "goalShareType": "individual",
+
+    "goalStatus": "submitted",
+
+    "goalStatusDate": "2017-09-09",
+
+    "incomeStartAge": 63,
+
+    "incomeStartDate": "2046-01-01",
+
+    "incomeEndAge": "83",
+
+    "incomeEndDate": "2066-01-01",
+
+    "client": {
+
+      "lastName": "Cooper",
+
+      "firstName": "Jane",
+
+      "dob": "1970-04-01",
+
+      "regularContribution": {
+
+        "amount": 1250,
+
+        "frequency": "weekly"
+
+      },
+
+      "expenseAllocation": "10%",
+
+      "initialInvestment": 90000
+
+    },
+
+    "investmentAccounts": [
+
+      "4168675309",
+
+      "31415926535"
+
+    ]
+
+  }
+
+];
